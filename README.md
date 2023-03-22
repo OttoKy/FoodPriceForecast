@@ -1,1 +1,2 @@
-# FoodPriceForecast
+A upcoming data analysis and machine learning project for predicting future food prices in Finland using various historical data. 
+This repository will include exploratory data analysis, preprocessing, feature engineering, and implementation of time series forecasting models.
