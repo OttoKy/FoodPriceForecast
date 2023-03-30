@@ -15,7 +15,9 @@ class LSTMModel(nn.Module):
         # Define the fully connected (linear) layer that maps the LSTM's output to the desired output size
         self.fc = nn.Linear(hidden_size, output_size)
         
-    
+        # Define the loss function
+        self.loss_function = nn.MSELoss()
+
     
     def forward(self, x):
         # Initialize the hidden and cell states with zeros
