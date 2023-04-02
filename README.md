@@ -1,5 +1,10 @@
-A upcoming data analysis and machine learning project for predicting future food prices in Finland using various historical data. 
-This repository will include exploratory data analysis, preprocessing, and implementation of time series forecasting models.
+**Note**: This is a simple and small example of a time series forecasting model using LSTM, intended for educational purposes and as a starting point for more complex models.
 
 
-**Note**: The current implementation of the `LSTMModel` class has only been tested with synthetic data. Further testing and evaluation with real-world data are required to assess its performance and suitability for the task.
+
+#Time Series Forecasting with LSTM
+This repository contains a simple time series forecasting model using Long Short-Term Memory (LSTM) neural networks. 
+The model predicts future values based on historical time series data. 
+This project is primarily intended for educational purposes and for practicing deep learning with PyTorch.
+
+
